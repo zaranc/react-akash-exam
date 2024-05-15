@@ -21,7 +21,7 @@ import Users from "./Admin/Pages/Users";
 
 function App() {
 
-  let role = "admin"
+  let role = "user"
 
   if(role==='admin')
   {
