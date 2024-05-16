@@ -41,6 +41,18 @@
       "name": "akash jayentibha savaliya",
       "email": "vihanidesaei543@gmail.com",
       "password": "4687978675654433211``343"
+    },
+    {
+      "id": "1dc7",
+      "name": "komalsavaliya",
+      "email": "komalsavaliya17@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "c0c1",
+      "name": "akash",
+      "email": "vihanidesaei543@gmail.com",
+      "password": "3535"
     }
   ],
   "products": [
@@ -48,7 +60,7 @@
       "id": "21ac",
       "productName": "ring",
       "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
-      "price": "50000",
+      "price": "5000",
       "desc": "this is ring",
       "available": true
     },
@@ -58,7 +70,7 @@
       "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
       "price": "2000",
       "desc": "this is watch",
-      "available": false
+      "available": true
     },
     {
       "id": "3b24",
@@ -66,7 +78,7 @@
       "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
       "price": "1000",
       "desc": "this is  sadi",
-      "available": false
+      "available": true
     },
     {
       "id": "b18c",
@@ -90,6 +102,62 @@
       "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
       "price": "5000",
       "desc": "this is phone",
+      "available": true
+    },
+    {
+      "id": "6cde",
+      "productName": "drinkwoter botal",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "200",
+      "desc": "this id botal",
+      "available": true
+    },
+    {
+      "id": "c8c9",
+      "productName": "dell pc",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "40000",
+      "desc": "this id computer",
+      "available": true
+    },
+    {
+      "id": "0533",
+      "productName": "iphone 15 pro max ",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "150000",
+      "desc": "this is iphone",
+      "available": true
+    },
+    {
+      "id": "83d0",
+      "productName": "logist headphone",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "3500",
+      "desc": "this is headphone",
+      "available": true
+    },
+    {
+      "id": "0014",
+      "productName": "amstrad AC",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "24000",
+      "desc": "this is AC",
+      "available": true
+    },
+    {
+      "id": "1a82",
+      "productName": "boss chair",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "2500",
+      "desc": "this is chair",
+      "available": true
+    },
+    {
+      "id": "81d2",
+      "productName": "akash",
+      "productImage": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwcGhvbmV8ZW58MHx8MHx8fDA%3D",
+      "price": "4345",
+      "desc": "AKASH",
       "available": true
     }
   ]

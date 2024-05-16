@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { base_url, get_product } from "../../constant";
 import { get_data } from "../../Api/api";
 
-const Product = () => {
+const ProductUser = () => {
   const [products, setProducts] = useState([]);
   const [filteredProducts, setFilteredProducts] = useState([]);
   const [inputValue, setInputValue] = useState("");
@@ -73,7 +73,7 @@ const Product = () => {
   );
 };
 
-export default Product;
+export default ProductUser;
 
 
 
